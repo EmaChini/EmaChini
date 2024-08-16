@@ -1,7 +1,7 @@
 # Hi, I am Emanuele Chini
 
-**Location:** 📍 Trento - Verona
-[LinkedIn](https://www.linkedin.com/in/emanuele-chini-53419a238/)
+**Location:** 📍 Trento - Verona |
+[LinkedIn](https://www.linkedin.com/in/emanuele-chini-53419a238/) | 
 [WebPage](https://emachini.github.io/EmanueleChini.github.io/)
 
 ## Profile
