@@ -34,7 +34,7 @@ Team working | Time management | Autonomy | Flexibility | Adaptability | Attenti
 - **Institution**: Liceo Scientifico G. Galilei
 - **Period**: 2013 - 2018
 
-### Research Publications and conferences
+## Research Publications and conferences
 
 #### Reactive Synthesis for Expected Impacts
 - **Abstract**: "As business processes become increasingly complex, effectively modeling decision points, their likelihood,and resource consumption is crucial for optimizing operations. To address this challenge, this paper introduces a formal extension of the Business Process Model and Notation (BPMN) that incorporates choices, probabilities, and impacts, referred to as *CPI*. This extension is motivated by the growing emphasis on precise control within business process management, where carefully selecting decision pathways in repeated instances  is crucial for conforming to certain standards of multiple resource consumption and environmental impacts. In this context we deal with the problem of synthesizing a strategy (if any) that guarantees that the expected impacts on repeated execution of the input process are below a given threshold.  We show that this problem belongs to PSPACE complexity class; moreover we provide an effective procedure for computing a strategy (if present)."
@@ -81,7 +81,7 @@ Work made for my Bachelor Thesis.
 - **Duration**: 10/2017
 - **Description**: Linguistic, scientific, and social sciences research project.
 
-### Linguistic Skills
+## Linguistic Skills
 - **Italian**: Native
 - **English**: FIRST Certificate, Cambridge English, Level B2, 2018
 - **German**: CLA Certification, University of Verona, Level A2, 2023
