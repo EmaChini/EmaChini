@@ -1,6 +1,8 @@
 # Hi, I am Emanuele Chini
 
 **Location:** 📍 Trento - Verona
+[LinkedIn](https://www.linkedin.com/in/emanuele-chini-53419a238/)
+[WebPage](https://emachini.github.io/EmanueleChini.github.io/)
 
 ## Profile
 Innovative, challenge-loving, and professional. Currently pursuing a National PhD. in Artificial Itellicenge at the University of Verona in collaboration with the University La Sapienza, Rome and [Giordano Controls](https://www.giordanocontrols.com/it/). We tackling the predictive maintance problem in HVAC systems with [Giordano Controls](https://www.giordanocontrols.com/it/).
