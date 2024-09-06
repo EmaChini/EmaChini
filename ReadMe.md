@@ -57,20 +57,24 @@ In this paper, we propose a methodological framework that includes migration str
 ### Integration of BPMN Engine in a Breast Cancer Care Management Microservice
 - **Institution**: Fondazione Bruno Kessler (FBK)
 - **Period**: 04/2023 - 06/2023
+- **Type**: Internship
 - **Responsibilities**: Optimizing the definition of the breast cancer care process modeled with BPMN 2.0 and integrating it between the TreC platform and the Camunda engine.
 
 ### BPM Based Web Application to Support Activities for Patients Waiting For Pancreatic Surgery
 - **Period**: 2022 - 2023
+- **Type**: Master Thesis
 - **Responsibilities**: Developing frontend (Angular) and backend (using Camunda BPM engine) for an application that supports patients comprehensively in the month before pancreatic surgery.
 Work made for my Master Thesis.
 
 ### Development of a Mobile Application for Verbal Apraxia Rehabilitation
 - **Period**: 2021
+- **Type**: Bachelor Thesis
 - **Responsibilities**: Collaborated with Dr. Alessandra Tobaldi from the Neurocognitive Rehabilitation Center [CERIN](https://www.cimec.unitn.it/en/73/center-for-neurocognitive-rehabilitation-cerin) in Rovereto to develop an application aiding verbal apraxia rehabilitation. Developed the Android application and served as the liaison between the University and CERIN.
 Work made for my Bachelor Thesis.
 
 ### Development of an Interface for OCR Data Integration with NLP Pipeline
 - **Period**: 06/2023 - 10/2023 
+- **Type**: Research grant
 - **Responsibilities**: Collaborating with Prof. Pietro Sala to develop an interface that connects OCR-processed data with an NLP pipeline, allowing users to modify and/or add information.
 
 ## International Experience
