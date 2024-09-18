@@ -42,6 +42,7 @@ Team working | Time management | Autonomy | Flexibility | Adaptability | Attenti
 - **Conference**: Fifteenth International Symposium on Games, Automata, Logics, and Formal Verification
 - **Keywords**: Business Process Management | Expected Impacts | Reactive Synthesis
 - **Link Code**: [https://github.com/ansimonetti/PACO]
+- **Link publication**: https://published.eptcs.org
 
 #### A migration framework for active BPMN processes in healthcare
 - **Abstract**: "The Business Process Modeling Notation (BPMN) is a diagrammatical notation to describe complex process models,
@@ -51,6 +52,7 @@ In this paper, we propose a methodological framework that includes migration str
 - **Year**: 2024
 - **Conference**: The 12th IEEE International Conference on Healthcare Informatics (IEEE ICHI 2024)
 - **Keywords**: BPMN | BPMN framework | agile methodology | migration | BPMN migration | versioning
+- **DOI**: 10.1109/ICHI61247.2024.00050
 
 ## Professional Experience and Projects
 
