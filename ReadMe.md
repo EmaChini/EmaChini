@@ -6,6 +6,7 @@
 ## Profile
 Innovative, challenge-loving, and professional. Currently pursuing a National PhD. in Artificial Itellicenge at the University of Verona in collaboration with the University La Sapienza, Rome and [Giordano Controls](https://www.giordanocontrols.com/it/). We tackling the predictive maintance problem in HVAC systems with [Giordano Controls](https://www.giordanocontrols.com/it/).
 Ambitious, cheerful, and reliable. Enjoy achieving goals as part of a team.
+[CV](Emanuele_Chini_Resume.pdf)
 
 ### Research Interest
 
