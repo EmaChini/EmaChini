@@ -10,7 +10,7 @@ Ambitious, cheerful, and reliable. Enjoy achieving goals as part of a team.
 
 ### Research Interest
 
-Artificial Intelligence | Explainability | Time Series Anomaly detection | BPMN | Healthcare Informatics
+Artificial Intelligence | Explainability | Time Series Anomaly detection | BPMN | Healthcare Informatics | Time Series Classification | Strategy Synthesis | 
 
 ### Soft Skills
 Team working | Time management | Autonomy | Flexibility | Adaptability | Attention to detail | Excellent interpersonal skills| Problem solving | Initiative
@@ -26,6 +26,14 @@ Team working | Time management | Autonomy | Flexibility | Adaptability | Attenti
 - **Period**: 09/2024 - 11/2024
 - **Location**: Milan, Italy
 - **Link**: [certificate](Certificate_Founders_Academy_Chini.pdf)
+
+### European Patent Academy - Create - Protect - Innovate: Bringing ideas to market (Entry level)
+- **Institution**: European Patent Academy
+- **Period**: 06/2026
+- **Duration**: 75 hours
+- **Grade**: 80.00
+- **Certificate ID**: mmEIjsXF5Z
+- **Link**: [certificate](CertificateEuropeanPatentAcademy.pdf)
 
 ### Master's Degree in Medical Bioinformatics
 - **Institution**: University of Verona
@@ -60,6 +68,24 @@ In this paper, we propose a methodological framework that includes migration str
 - **Conference**: The 12th IEEE International Conference on Healthcare Informatics (IEEE ICHI 2024)
 - **Keywords**: BPMN | BPMN framework | agile methodology | migration | BPMN migration | versioning
 - **DOI**: https://ieeexplore.ieee.org/abstract/document/10628905
+
+---
+
+## Research Experience
+
+### Université Haute-Alsace (France)
+**Research Collaboration – Explainable Knowledge Distillation in Time Series**  
+2025
+
+Collaboration with Prof. Germain Forestier on interpretable knowledge distillation methods for time series classification.
+
+### Giordano Controls
+**Predictive Maintenance for HVAC Systems**  
+2023 – 2025
+
+Development of AI pipelines and anomaly detection systems using TensorFlow and PyTorch.
+
+---
 
 ## Professional Experience and Projects
 
