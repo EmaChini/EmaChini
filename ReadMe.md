@@ -5,7 +5,7 @@
 
 ## Profile
 Innovative, challenge-loving, and professional. Currently pursuing a National PhD. in Artificial Itellicenge at the University of Verona in collaboration with the University La Sapienza, Rome and [Giordano Controls](https://www.giordanocontrols.com/it/). We tackling the predictive maintance problem in HVAC systems with [Giordano Controls](https://www.giordanocontrols.com/it/).
-Ambitious, cheerful, and reliable. Enjoy achieving goals as part of a team.
+Ambitious, cheerful, and reliable. Passionate about startups and enjoy achieving goals as part of a team.
 [CV](Emanuele_Chini_Resume.pdf)
 
 ### Research Interest
@@ -26,6 +26,10 @@ Team working | Time management | Autonomy | Flexibility | Adaptability | Attenti
 - **Period**: 09/2024 - 11/2024
 - **Location**: Milan, Italy
 - **Link**: [certificate](Certificate_Founders_Academy_Chini.pdf)
+
+### B4i - Bocconi for Innovation Pre-Accelerator
+- **Institution**: Bocconi University
+- **Link**: [certificate](Emanuele_Chini_Certificate_B4i.pdf)
 
 ### European Patent Academy - Create - Protect - Innovate: Bringing ideas to market (Entry level)
 - **Institution**: European Patent Academy
